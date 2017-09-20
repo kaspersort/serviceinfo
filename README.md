@@ -1,0 +1,2 @@
+# serviceinfo
+TEST repository
